@@ -1,0 +1,33 @@
+CAM-Ausgabe für AktuellesProjekt UpsRaspberryV3.0Final.T3001A
+Revision 0.1
+Ausgabe am 23. nov. 2017, 17:10h
+AktuellesProjekt erzeugt mit TARGET 18.7.0.35 design station
+Ausgabe erzeugt mit TARGET 3001! V18.7.0.35
+AktuellesProjekt von TARGET NC-Version: Kommerzielle Nutzung ist strafbar!
+LIEFERANSCHRIFT:
+  
+  
+  
+  D- 
+  Tel: 
+  FAX: 
+  eMail: 
+Größe der Platine: 55,9 mm x 65,5 mm
+
+Folgend die Beschreibung der erzeugten Dateien:
+
+UpsRaspberryV3.0Final.Top = 16 = Kupfer oben L1   ( *.Top )
+UpsRaspberryV3.0Final.Bot = 2 = Kupfer unten L2   ( *.Bot )
+UpsRaspberryV3.0Final.Tool = Bohrerliste
+UpsRaspberryV3.0Final.Drill = Durchkontaktierte Bohrungen
+UpsRaspberryV3.0Final.Outline = 23 = Platinen-Umriss   ( *.Outline )
+UpsRaspberryV3.0Final.StopTop = 18 = Lötstoppmaske oben   ( *.StopTop )
+UpsRaspberryV3.0Final.StopBot = 4 = Lötstoppmaske unten   ( *.StopBot )
+UpsRaspberryV3.0Final.PosiTop = 21 = Bestückungsdruck oben   ( *.PosiTop )
+UpsRaspberryV3.0Final.PosiBot = 7 = Bestückungsdruck unten   ( *.PosiBot )
+UpsRaspberryV3.0Final.PasteTop = 19 = Lötpaste oben   ( *.PasteTop )
+UpsRaspberryV3.0Final.Apr = TARGET 3001! Blendenliste
+UpsRaspberryV3.0Final.Whl = Eagle kompatible Blendenliste
+
+
+Achtung: Dünnste Bahn ist kleiner 0,150mm: (0,104 bei -14,42875 | 27,854125) auf Ebene 21
